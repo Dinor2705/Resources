@@ -1,1 +1,1 @@
-# AppResources
+# AI Apps Resources
