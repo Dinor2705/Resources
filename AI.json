@@ -1,0 +1,18 @@
+{
+  "name": "AI",
+  "identifier": "com.AppInstalleriOS.AI",
+  "sourceURL": "https://appinstallerios.com/Resources/AI.json",
+  "apps": [],
+  "news": [
+   {
+      "title": "AIapps",
+      "identifier": "com.AppInstalleriOS.AI.AltStoreRepo.Home",
+      "caption": "Tap To View",
+      "url": "https://appinstallerios.com/Resources/AI.html",
+      "tintColor": "1C0B36",
+      "imageURL": "https://appinstallerios.com/private/Files/Banners/AppInstalleriOSBanner.png",
+      "date": "2022-02-14T12:30:00-00:00",
+      "notify": false
+    }
+  ]
+}
