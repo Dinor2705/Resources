@@ -8,7 +8,7 @@
     "IPA": "https://appinstallerios.com/plist/unc0ver.plist",
     "Web": "https://unc0ver.dev",
     "Banner": "https://appinstallerios.com/Img/unc0verBanner.png",
-    "Icon": "icon",
+    "Icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "Message": "The Most Advanced Jailbreak Tool",
     "whatsnew": "Bug Fixes",
     "OpenApp": "unc0ver://"
