@@ -1,0 +1,15 @@
+[
+  {
+    "Title": "Apple Support",
+    "Dev": "Apple",
+    "version": "1.0",
+    "Status": "Active",
+    "Install": "https://appinstallerios.com/plist/unc0ver.plist",
+    "AltStore": "https://appinstallerios.com/plist/unc0ver.plist",
+    "IPA": "https://appinstallerios.com/plist/unc0ver.plist",
+    "Web": "https://support.apple.com",
+    "Banner": "https://support.apple.com",
+    "Icon": "icon",
+    "Message": "Hello"
+  }
+]
