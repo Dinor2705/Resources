@@ -26,5 +26,13 @@
   {
     "ShortcutName": "Get App Info From App Store App",
     "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b"
+  },
+  {
+    "ShortcutName": "Install App From Json",
+    "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039"
+  },
+  {
+    "ShortcutName": "Install IPA Files",
+    "ShortcutID": "54df7a41f5ed4c909e59c7e808263822"
   }
 ]
