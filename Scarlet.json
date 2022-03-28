@@ -13,7 +13,7 @@
       "banner": "https://appinstallerios.com/private/Files/Banners/AppInstalleriOSBanner.png",
       "category": "Tweaked",
       "description": "Appinstaller iOS",
-      "bundleID": "science.xnu.undecimus",
+      "bundleID": "com.ApplnstalleriOS.Appinstaller-iOS",
       "contact": {
         "web": "https://appinstallerios.com/Resources/Scarlet",
         "twitter": "https://twitter.com/appinstallerios"
