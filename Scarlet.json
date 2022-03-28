@@ -14,13 +14,6 @@
       "category": "Tweaked",
       "description": "Appinstaller iOS",
       "bundleID": "science.xnu.undecimus",
-      "debs": [
-        ""
-      ],
-      "screenshots": [
-        "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot1.png",
-        "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot2.png"
-      ],
       "contact": {
         "web": "https://AppInstalleriOS.com",
         "twitter": "https://twitter.com/appinstallerios"
