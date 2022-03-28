@@ -37,16 +37,16 @@
   {
     "ShortcutName": "Install App From Json",
     "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
-    "ShortcutRun": "IPSW.me%20API"
+    "ShortcutRun": "Install App From Json"
   },
   {
     "ShortcutName": "Install IPA Files",
     "ShortcutID": "54df7a41f5ed4c909e59c7e808263822",
-    "ShortcutRun": "IPSW.me%20API"
+    "ShortcutRun": "Install IPA Files"
   },
   {
     "ShortcutName": "Scarlet Repo",
     "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035",
-    "ShortcutRun": "IPSW.me%20API"
+    "ShortcutRun": "Scarlet Repo"
   }
 ]
