@@ -12,27 +12,27 @@
   {
     "ShortcutName": "Search Apple Music",
     "ShortcutID": "c5c1fc080f4445f49ab244b7e0ecfabe",
-    "ShortcutRun": "IPSW.me%20API"
+    "ShortcutRun": "Search Apple Music"
   },
   {
     "ShortcutName": "Search And Play Apple Music",
     "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8",
-    "ShortcutRun": "IPSW.me%20API"
+    "ShortcutRun": "Search And Play Apple Music"
   },
   {
     "ShortcutName": "Json Installer",
     "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
-    "ShortcutRun": "IPSW.me%20API"
+    "ShortcutRun": "Json Installer"
   },
   {
     "ShortcutName": "Get IPA From Plist",
     "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
-    "ShortcutRun": "IPSW.me%20API"
+    "ShortcutRun": "Get IPA From Plist"
   },
   {
     "ShortcutName": "Get App Info From App Store App",
     "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
-    "ShortcutRun": "IPSW.me%20API"
+    "ShortcutRun": "Get App Info From App Store App"
   },
   {
     "ShortcutName": "Install App From Json",
