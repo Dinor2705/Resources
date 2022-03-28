@@ -6,5 +6,13 @@
   {
     "ShortcutName": "Search For AppStore Apps",
     "ShortcutID": "444297fd8f234f4db0a9686645fc04c3"
+  },
+  {
+    "ShortcutName": "Search Apple Music",
+    "ShortcutID": "cb284ded133f4df49ea3f45f08137039"
+  },
+  {
+    "ShortcutName": "Search And Play Apple Music",
+    "ShortcutID": "1343d9c83d7a4e389b4f4667b6883b97"
   }
 ]
