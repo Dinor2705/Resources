@@ -1,42 +1,52 @@
 [
   {
     "ShortcutName": "IPSW.me API",
-    "ShortcutID": "cfdb11fc157e4b108af353cf21cdd74d"
+    "ShortcutID": "cfdb11fc157e4b108af353cf21cdd74d",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Search For AppStore Apps",
-    "ShortcutID": "444297fd8f234f4db0a9686645fc04c3"
+    "ShortcutID": "444297fd8f234f4db0a9686645fc04c3",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Search Apple Music",
-    "ShortcutID": "c5c1fc080f4445f49ab244b7e0ecfabe"
+    "ShortcutID": "c5c1fc080f4445f49ab244b7e0ecfabe",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Search And Play Apple Music",
-    "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8"
+    "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Json Installer",
-    "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd"
+    "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Get IPA From Plist",
-    "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1"
+    "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Get App Info From App Store App",
-    "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b"
+    "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Install App From Json",
-    "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039"
+    "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Install IPA Files",
-    "ShortcutID": "54df7a41f5ed4c909e59c7e808263822"
+    "ShortcutID": "54df7a41f5ed4c909e59c7e808263822",
+    "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Scarlet Repo",
-    "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035"
+    "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035",
+    "ShortcutRun": "IPSW.me%20API"
   }
 ]
