@@ -14,5 +14,9 @@
   {
     "ShortcutName": "Search And Play Apple Music",
     "ShortcutID": "1343d9c83d7a4e389b4f4667b6883b97"
+  },
+  {
+    "ShortcutName": "Json Installer",
+    "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd"
   }
 ]
