@@ -24,16 +24,16 @@
     "ShortcutRun": "Json%20Installer"
   },
   {
-    "ShortcutName": "Get IPA From Plist",
-    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
-    "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
-    "ShortcutRun": "Get%20IPA%20From%20Plist"
-  },
-  {
     "ShortcutName": "Install App From Json",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
     "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
     "ShortcutRun": "Install%20App%20From%20Json"
+  },
+  {
+    "ShortcutName": "Get IPA From Plist",
+    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
+    "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
+    "ShortcutRun": "Get%20IPA%20From%20Plist"
   },
   {
     "ShortcutName": "Install IPA Files",
