@@ -15,26 +15,6 @@
     "ShortcutRun": "Search%20Apple%20Music"
   },
   {
-    "ShortcutName": "Search And Play Apple Music",
-    "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8",
-    "ShortcutRun": "Search%20And%20Play%20Apple%20Music"
-  },
-  {
-    "ShortcutName": "Json Installer",
-    "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
-    "ShortcutRun": "Json%20Installer"
-  },
-  {
-    "ShortcutName": "Get IPA From Plist",
-    "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
-    "ShortcutRun": "Get%20IPA%20From%20Plist"
-  },
-  {
-    "ShortcutName": "Get App Info From App Store App",
-    "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
-    "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App"
-  },
-  {
     "ShortcutName": "Install App From Json",
     "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
     "ShortcutRun": "Install%20App%20From%20Json"
