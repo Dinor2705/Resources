@@ -12,6 +12,12 @@
     "ShortcutRun": "Search%20For%20AppStore%20Apps"
   },
   {
+    "ShortcutName": "Get App Info From App Store App",
+    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
+    "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
+    "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App"
+  },
+  {
     "ShortcutName": "Json Installer",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
     "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
@@ -22,12 +28,6 @@
     "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
     "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
     "ShortcutRun": "Get%20IPA%20From%20Plist"
-  },
-  {
-    "ShortcutName": "Get App Info From App Store App",
-    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
-    "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
-    "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App"
   },
   {
     "ShortcutName": "Install App From Json",
