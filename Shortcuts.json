@@ -12,18 +12,6 @@
     "ShortcutRun": "Search%20For%20AppStore%20Apps"
   },
   {
-    "ShortcutName": "Search Apple Music",
-    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
-    "ShortcutID": "c5c1fc080f4445f49ab244b7e0ecfabe",
-    "ShortcutRun": "Search%20Apple%20Music"
-  },
-  {
-    "ShortcutName": "Search And Play Apple Music",
-    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
-    "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8",
-    "ShortcutRun": "Search%20And%20Play%20Apple%20Music"
-  },
-  {
     "ShortcutName": "Json Installer",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
     "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
@@ -64,5 +52,16 @@
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
     "ShortcutID": "b4a8e2ee277a4cacb4f14986653c62bf",
     "ShortcutRun": "iOS%20Beta%20Checker"
+  },{
+    "ShortcutName": "Search Apple Music",
+    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
+    "ShortcutID": "c5c1fc080f4445f49ab244b7e0ecfabe",
+    "ShortcutRun": "Search%20Apple%20Music"
+  },
+  {
+    "ShortcutName": "Search And Play Apple Music",
+    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
+    "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8",
+    "ShortcutRun": "Search%20And%20Play%20Apple%20Music"
   }
 ]
