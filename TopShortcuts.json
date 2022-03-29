@@ -1,26 +1,26 @@
 [
   {
-    "ShortcutName": "Get IPA From Plist",
-    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
-    "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
-    "ShortcutRun": "Get%20IPA%20From%20Plist"
-  },
-  {
     "ShortcutName": "Install IPA Files",
     "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
     "ShortcutID": "54df7a41f5ed4c909e59c7e808263822",
     "ShortcutRun": "Install%20IPA%20Files"
   },
   {
-    "ShortcutName": "Scarlet Repo",
-    "ShortcutIcon": "https://icons.appinstallerios.com/ScarletIcon.png",
-    "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035",
-    "ShortcutRun": "Scarlet%20Repo"
+    "ShortcutName": "Get IPA From Plist",
+    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
+    "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
+    "ShortcutRun": "Get%20IPA%20From%20Plist"
   },
   {
     "ShortcutName": "iOS Signing Status",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
     "ShortcutID": "35e47034b43e4097b0e6515b08034f01",
     "ShortcutRun": "iOS%20Signing%20Status"
+  },
+  {
+    "ShortcutName": "Scarlet Repo",
+    "ShortcutIcon": "https://icons.appinstallerios.com/ScarletIcon.png",
+    "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035",
+    "ShortcutRun": "Scarlet%20Repo"
   }
 ]
