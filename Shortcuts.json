@@ -18,24 +18,6 @@
     "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App"
   },
   {
-    "ShortcutName": "Json Installer",
-    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
-    "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
-    "ShortcutRun": "Json%20Installer"
-  },
-  {
-    "ShortcutName": "Install App From Json",
-    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
-    "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
-    "ShortcutRun": "Install%20App%20From%20Json"
-  },
-  {
-    "ShortcutName": "iOS Beta Checker",
-    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
-    "ShortcutID": "b4a8e2ee277a4cacb4f14986653c62bf",
-    "ShortcutRun": "iOS%20Beta%20Checker"
-  },
-  {
     "ShortcutName": "Get IPA From Plist",
     "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
     "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
@@ -64,6 +46,24 @@
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
     "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8",
     "ShortcutRun": "Search%20And%20Play%20Apple%20Music"
+  },
+  {
+    "ShortcutName": "Json Installer",
+    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
+    "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
+    "ShortcutRun": "Json%20Installer"
+  },
+  {
+    "ShortcutName": "Install App From Json",
+    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
+    "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
+    "ShortcutRun": "Install%20App%20From%20Json"
+  },
+  {
+    "ShortcutName": "iOS Beta Checker",
+    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
+    "ShortcutID": "b4a8e2ee277a4cacb4f14986653c62bf",
+    "ShortcutRun": "iOS%20Beta%20Checker"
   },
   {
     "ShortcutName": "iOS Signing Status",
