@@ -37,7 +37,7 @@
   },
   {
     "ShortcutName": "Get App Info From App Store App",
-    "ShortcutIcon": "https://icons.appinstallerios.com/AppInstalleriOSIcon.png",
+    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
     "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
     "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App"
   },
