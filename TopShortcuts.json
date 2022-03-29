@@ -1,16 +1,19 @@
 [
   {
     "ShortcutName": "IPSW.me API",
+    "ShortcutIcon": "https://icons.appinstallerios.com/AppInstalleriOSIcon.png",
     "ShortcutID": "cfdb11fc157e4b108af353cf21cdd74d",
     "ShortcutRun": "IPSW.me%20API"
   },
   {
     "ShortcutName": "Scarlet Repo",
+    "ShortcutIcon": "https://icons.appinstallerios.com/AppInstalleriOSIcon.png",
     "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035",
     "ShortcutRun": "Scarlet%20Repo"
   },
   {
     "ShortcutName": "iOS Beta Checker",
+    "ShortcutIcon": "https://icons.appinstallerios.com/AppInstalleriOSIcon.png",
     "ShortcutID": "b4a8e2ee277a4cacb4f14986653c62bf",
     "ShortcutRun": "iOS%20Beta%20Checker"
   }
