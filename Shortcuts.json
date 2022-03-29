@@ -31,7 +31,7 @@
   },
   {
     "ShortcutName": "Get IPA From Plist",
-    "ShortcutIcon": "https://68.media.tumblr.com/b01ec4d1e648f82b12ab587909ceb2c5/tumblr_o2klqfn15y1qzhxrto1_540.png",
+    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
     "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
     "ShortcutRun": "Get%20IPA%20From%20Plist"
   },
@@ -49,7 +49,7 @@
   },
   {
     "ShortcutName": "Install IPA Files",
-    "ShortcutIcon": "https://68.media.tumblr.com/b01ec4d1e648f82b12ab587909ceb2c5/tumblr_o2klqfn15y1qzhxrto1_540.png",
+    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
     "ShortcutID": "54df7a41f5ed4c909e59c7e808263822",
     "ShortcutRun": "Install%20IPA%20Files"
   },
