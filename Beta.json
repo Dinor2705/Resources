@@ -1,10 +1,11 @@
 [
   {
+    "Title": "Apple Beta",
     "Active": "True",
     "iPhone": "15.4",
     "iPad": "15.4",
-    "AppleWatch": "https://unc0ver.dev",
-    "Homepod": "https://icons.appinstallerios.com/Unc0verIcon.png",
+    "AppleWatch": "8.5",
+    "Homepod": "15.3",
     "Log": "Log URL"
   }
 ]
