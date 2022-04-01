@@ -1,22 +1,22 @@
 [
   {
     "Title": "Appinstaller iOS",
-    "ShortcutIcon": "https://icons.appinstallerios.com/IPSW-me.png",
+    "Banner": "https://icons.appinstallerios.com/IPSW-me.png",
     "Install": "IPSW.me%20API"
   },
   {
     "Title": "Appinstaller iOS",
-    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
+    "Banner": "https://icons.appinstallerios.com/AppStore.png",
     "Install": "Search%20For%20AppStore%20Apps"
   },
   {
     "Title": "Appinstaller iOS",
-    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
+    "Banner": "https://icons.appinstallerios.com/AppStore.png",
     "Install": "Get%20App%20Info%20From%20App%20Store%20App"
   },
   {
     "Title": "Appinstaller iOS",
-    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
+    "Banner": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
     "Install": "Search%20Apple%20Music"
   }
 ]
