@@ -1,17 +1,17 @@
 [
   {
     "Title": "Taurine",
-    "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
+    "Banner": "https://appinstallerios.com/Img/TaurineBanner.png",
     "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
   },
   {
     "Title": "unc0ver",
-    "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
+    "Banner": "https://appinstallerios.com/Img/unc0verBanner.png",
     "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
   },
   {
     "Title": "Saily",
-    "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
+    "Banner": "https://appinstallerios.com/Img/SailyBanner.png",
     "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
   },
   {
