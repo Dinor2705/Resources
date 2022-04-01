@@ -1,24 +1,24 @@
 [
   {
-    "ShortcutName": "IPSW.me API",
+    "Name": "IPSW.me API",
     "ShortcutIcon": "https://icons.appinstallerios.com/IPSW-me.png",
     "ShortcutID": "cfdb11fc157e4b108af353cf21cdd74d",
     "ShortcutRun": "IPSW.me%20API"
   },
   {
-    "ShortcutName": "Search For AppStore Apps",
+    "Name": "Search For AppStore Apps",
     "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
     "ShortcutID": "444297fd8f234f4db0a9686645fc04c3",
     "ShortcutRun": "Search%20For%20AppStore%20Apps"
   },
   {
-    "ShortcutName": "Get App Info From App Store App",
+    "Name": "Get App Info From App Store App",
     "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
     "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
     "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App"
   },
   {
-    "ShortcutName": "Search Apple Music",
+    "Name": "Search Apple Music",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
     "ShortcutID": "c5c1fc080f4445f49ab244b7e0ecfabe",
     "ShortcutRun": "Search%20Apple%20Music"
