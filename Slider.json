@@ -18,5 +18,10 @@
     "Title": "Appinstaller iOS",
     "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
     "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
+  },
+  {
+    "Title": "Appinstaller iOS",
+    "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
+    "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
   }
 ]
