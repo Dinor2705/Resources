@@ -6,12 +6,6 @@
     "ShortcutRun": "Install%20IPA%20Files"
   },
   {
-    "ShortcutName": "Get IPA From Plist",
-    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
-    "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
-    "ShortcutRun": "Get%20IPA%20From%20Plist"
-  },
-  {
     "ShortcutName": "iOS Signing Status",
     "ShortcutIcon": "https://AppInstallerios.com/Img/Signed.png",
     "ShortcutID": "35e47034b43e4097b0e6515b08034f01",
