@@ -1,9 +1,9 @@
 [
   {
-    "ShortcutName": "Install IPA Files",
-    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
-    "ShortcutID": "54df7a41f5ed4c909e59c7e808263822",
-    "ShortcutRun": "Install%20IPA%20Files"
+    "ShortcutName": "Search For AppStore Apps",
+    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
+    "ShortcutID": "444297fd8f234f4db0a9686645fc04c3",
+    "ShortcutRun": "Search%20For%20AppStore%20Apps"
   },
   {
     "ShortcutName": "iOS Signing Status",
