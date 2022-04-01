@@ -2,21 +2,21 @@
   {
     "Title": "Appinstaller iOS",
     "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
-    "Install": "IPSW.me%20API"
+    "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
   },
   {
     "Title": "Appinstaller iOS",
     "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
-    "Install": "Search%20For%20AppStore%20Apps"
+    "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
   },
   {
     "Title": "Appinstaller iOS",
     "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
-    "Install": "Get%20App%20Info%20From%20App%20Store%20App"
+    "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
   },
   {
     "Title": "Appinstaller iOS",
     "Banner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
-    "Install": "Search%20Apple%20Music"
+    "Install": "https://appinstallerios.com/plist/AppInstalleriOS.plist"
   }
 ]
