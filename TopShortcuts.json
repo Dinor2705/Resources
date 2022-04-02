@@ -1,15 +1,15 @@
 [
   {
-    "ShortcutName": "Search For AppStore Apps",
-    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
-    "ShortcutID": "444297fd8f234f4db0a9686645fc04c3",
-    "ShortcutRun": "Search%20For%20AppStore%20Apps"
-  },
-  {
     "ShortcutName": "iOS Signing Status",
     "ShortcutIcon": "https://AppInstallerios.com/Img/Signed.png",
     "ShortcutID": "35e47034b43e4097b0e6515b08034f01",
     "ShortcutRun": "iOS%20Signing%20Status"
+  },
+  {
+    "ShortcutName": "Search For AppStore Apps",
+    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
+    "ShortcutID": "444297fd8f234f4db0a9686645fc04c3",
+    "ShortcutRun": "Search%20For%20AppStore%20Apps"
   },
   {
     "ShortcutName": "Scarlet Repo",
