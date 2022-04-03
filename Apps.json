@@ -28,5 +28,10 @@
     "AppName": "ZiniTevi",
     "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist"
+  },
+  {
+    "AppName": "UTM",
+    "AppIcon": "https://icons.appinstallerios.com/UTMIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/UTM.plist"
   }
 ]
