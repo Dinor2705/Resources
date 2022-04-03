@@ -23,5 +23,10 @@
     "AppName": "Saily",
     "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/Saily.plist"
+  },
+  {
+    "AppName": "ZiniTevi",
+    "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist"
   }
 ]
