@@ -13,5 +13,10 @@
     "AppName": "Delta",
     "AppIcon": "https://icons.appinstallerios.com/DeltaIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/Delta.plist"
+  },
+  {
+    "AppName": "Cercube 5",
+    "AppIcon": "https://icons.appinstallerios.com/CercubeIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Cercube.plist"
   }
 ]
