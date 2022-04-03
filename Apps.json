@@ -2,18 +2,16 @@
   {
     "AppName": "unc0ver",
     "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
-    "AppPlist": "35e47034b43e4097b0e6515b08034f01"
+    "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist"
   },
   {
-    "ShortcutName": "Search For AppStore Apps",
-    "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
-    "ShortcutID": "444297fd8f234f4db0a9686645fc04c3",
-    "ShortcutRun": "Search%20For%20AppStore%20Apps"
+    "AppName": "Taurine",
+    "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Taurine.plist"
   },
   {
-    "ShortcutName": "Scarlet Repo",
-    "ShortcutIcon": "https://icons.appinstallerios.com/ScarletIcon.png",
-    "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035",
-    "ShortcutRun": "Scarlet%20Repo"
+    "AppName": "Delta",
+    "AppIcon": "https://icons.appinstallerios.com/DeltaIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Delta.plist"
   }
 ]
