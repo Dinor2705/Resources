@@ -1,6 +1,6 @@
 [
   {
-    "version": "3.3.0",
-    "log": "Added A Repo Manager"
+    "version": "3.3.1",
+    "log": "Added Biometrics To Unlock App If Enabled Through The App Info Page"
   }
 ]
