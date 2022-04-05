@@ -1,6 +1,6 @@
 [
   {
-    "version": "3.3.1",
-    "log": "Added Biometrics To Unlock App If Enabled Through The App Info Page"
+    "version": "3.3.2",
+    "log": "Added Unlocking App With Password"
   }
 ]
