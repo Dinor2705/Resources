@@ -2,12 +2,12 @@
   {
     "Title": "Taurine",
     "Banner": "https://appinstallerios.com/Img/TaurineBanner.png",
-    "Install": "https://appinstallerios.com/plist/Taurine.plist"
+    "Install": "https://appinstallerios.com/AppResources/Plist/unc0ver.plist"
   },
   {
     "Title": "unc0ver",
     "Banner": "https://appinstallerios.com/Img/unc0verBanner.png",
-    "Install": "https://appinstallerios.com/plist/unc0ver.plist"
+    "Install": "https://appinstallerios.com/AppResources/Plist/unc0ver.plist"
   },
   {
     "Title": "Saily",
