@@ -18,5 +18,10 @@
     "Title": "Cercube 5",
     "Banner": "https://appinstallerios.com/Img/CercubeBanner.png",
     "Install": "https://appinstallerios.com/plist/Cercube.plist"
+  },
+  {
+    "Title": "ZiniTevi",
+    "Banner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
+    "Install": "https://appinstallerios.com/plist/ZiniTevi.plist"
   }
 ]
