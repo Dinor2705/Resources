@@ -12,16 +12,16 @@
   {
     "Title": "Saily",
     "Banner": "https://appinstallerios.com/Img/SailyBanner.png",
-    "Install": "https://appinstallerios.com/plist/Saily.plist"
+    "Install": "https://appinstallerios.com/AppResources/Plist/Saily.plist"
   },
   {
     "Title": "Cercube 5",
     "Banner": "https://appinstallerios.com/Img/CercubeBanner.png",
-    "Install": "https://appinstallerios.com/plist/Cercube.plist"
+    "Install": "https://appinstallerios.com/AppResources/Plist/Cercube.plist"
   },
   {
     "Title": "ZiniTevi",
     "Banner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
-    "Install": "https://appinstallerios.com/plist/ZiniTevi.plist"
+    "Install": "https://appinstallerios.com/AppResources/Plist/ZiniTevi.plist"
   }
 ]
