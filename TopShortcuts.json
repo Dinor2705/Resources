@@ -1,7 +1,7 @@
 [
   {
     "ShortcutName": "iOS Signing Status",
-    "ShortcutIcon": "https://AppInstallerios.com/Img/Signed.png",
+    "ShortcutIcon": "https://AppInstallerios.com/Img/Check.PNG",
     "ShortcutID": "35e47034b43e4097b0e6515b08034f01",
     "ShortcutRun": "iOS%20Signing%20Status"
   },
