@@ -7,12 +7,12 @@
     {
       "name": "Appinstaller iOS",
       "version": "1.0",
-      "icon": "https://appinstallerios.com/Img/AppInstalleriOSIcon.png",
+      "icon": "https://appinstallerios.com/Img/Gradient.PNG",
       "down": "https://appinstallerios.com/Resources/AppInstalleriOS.ipa",
       "dev": "Benjamin",
       "banner": "https://appinstallerios.com/private/Files/Banners/AppInstalleriOSBanner.png",
       "category": "Tweaked",
-      "description": "Appinstaller iOS",
+      "description": "AI iOS",
       "bundleID": "com.ApplnstalleriOS.Appinstaller-iOS",
       "contact": {
         "web": "https://appinstallerios.com/Resources/Scarlet",
