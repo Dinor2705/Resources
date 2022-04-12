@@ -1,13 +1,13 @@
 {
   "META": {
     "repoName": "AI iOS",
-    "repoIcon": "https://appinstallerios.com/Img/Gradient.PNG"
+    "repoIcon": "https://appinstallerios.com/AppResources/AI-Icon/AppInstalleriOSIcon.png"
   },
   "Tweaked": [
     {
       "name": "Appinstaller iOS",
       "version": "1.0",
-      "icon": "https://appinstallerios.com/Img/Gradient.PNG",
+      "icon": "https://appinstallerios.com/AppResources/AI-Icon/AppInstalleriOSIcon.png",
       "down": "https://appinstallerios.com/Resources/AppInstalleriOS.ipa",
       "dev": "Benjamin",
       "banner": "https://appinstallerios.com/Img/Gradient.PNG",
