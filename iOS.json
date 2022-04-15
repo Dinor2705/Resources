@@ -1,11 +1,11 @@
 [
   {
     "iOS": "15.4.1",
-    "Status": "Unsigned"
+    "Signed": true
   },
   {
     "iOS": "15.4",
-    "Status": "Unsigned"
+    "Signed": false
   },
   {
     "iOS": "15.3.1",
