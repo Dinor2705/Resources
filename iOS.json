@@ -9,7 +9,7 @@
   },
   {
     "iOS": "15.3.1",
-    "Status": "Unsigned"
+    "Signed": false
   },
   {
     "iOS": "15.3",
