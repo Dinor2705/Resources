@@ -1,6 +1,6 @@
 [
   {
-    "AppLock": true,
-    "Message": "Web Errs"
+    "AppLock": false,
+    "Message": "Web Errors"
   }
 ]
