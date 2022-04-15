@@ -1,6 +1,6 @@
 [
   {
-    "version": "4.0.3",
-    "log": "Added A Copy Button To Bundle ID In The App Store Page"
+    "version": "4.0.4",
+    "log": "Added iOS Signing Status And Improvements"
   }
 ]
