@@ -1,16 +1,19 @@
 [
   {
     "AppName": "unc0ver",
+    "AppDeveloper": "unc0ver",
     "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist"
   },
   {
     "AppName": "Taurine",
+    "AppDeveloper": "Taurine",
     "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/Taurine.plist"
   },
   {
     "AppName": "Delta",
+    "AppDeveloper": "Delta",
     "AppIcon": "https://icons.appinstallerios.com/DeltaIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/Delta.plist"
   }
