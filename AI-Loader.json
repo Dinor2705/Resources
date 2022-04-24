@@ -16,5 +16,11 @@
     "AppDeveloper": "Riley Testut",
     "AppIcon": "https://icons.appinstallerios.com/DeltaIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/Delta.plist"
+  },
+  {
+    "AppName": "ZiniTevi",
+    "AppDeveloper": "",
+    "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist"
   }
 ]
