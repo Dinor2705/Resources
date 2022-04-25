@@ -22,5 +22,11 @@
     "AppDeveloper": "",
     "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist"
+  },
+  {
+    "AppName": "iNDS",
+    "AppDeveloper": "",
+    "AppIcon": "https://icons.appinstallerios.com/iNDSIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/iNDS.plist"
   }
 ]
