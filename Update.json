@@ -1,6 +1,8 @@
 [
   {
     "version": "4.3.4",
-    "log": "Added App Screenshots To App Detail Views"
+    "log": "Added App Screenshots To App Detail Views",
+    "signed": false
+    
   }
 ]
