@@ -16,5 +16,14 @@
     "AppBanner": "https://appinstallerios.com/Img/TaurineBanner.png",
     "Twitter": "OdysseyTeam_",
     "Website": "https://taurine.app"
+  },
+  {
+    "AppName": "Saily",
+    "AppDeveloper": "Saily Team",
+    "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Saily.plist",
+    "AppBanner": "https://appinstallerios.com/Img/SailyBanner.png",
+    "Twitter": "",
+    "Website": ""
   }
 ]
