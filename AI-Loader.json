@@ -4,7 +4,9 @@
     "AppDeveloper": "Pwn20wnd",
     "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
-    "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png"
+    "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
+    "Twitter": "https://appinstallerios.com/Img/unc0verBanner.png",
+    "Website": "https://unc0ver.dev"
   },
   {
     "AppName": "Taurine",
