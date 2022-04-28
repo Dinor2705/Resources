@@ -1,8 +1,7 @@
 [
   {
-    "version": "4.3.4",
-    "log": "Added App Screenshots To App Detail Views",
+    "version": "4.3.5",
+    "log": "Added More Screenshots To App Detail Views And Added Support For Screenshots In AI Loader",
     "signed": false
-    
   }
 ]
