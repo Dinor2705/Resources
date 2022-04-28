@@ -8,7 +8,8 @@
     "Twitter": "unc0verTeam",
     "Website": "https://unc0ver.dev",
     "Screenshot1": "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
-    "Screenshot2": "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png"
+    "Screenshot2": "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png",
+    "AppSlider": true
   },
   {
     "AppName": "Taurine",
@@ -19,7 +20,8 @@
     "Twitter": "OdysseyTeam_",
     "Website": "https://taurine.app",
     "Screenshot1": "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
-    "Screenshot2": "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png"
+    "Screenshot2": "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png",
+    "AppSlider": true
   },
   {
     "AppName": "Saily",
@@ -30,6 +32,7 @@
     "Twitter": "TrySaily",
     "Website": "https://sailyteam.github.io",
     "Screenshot1": "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
-    "Screenshot2": "https://appinstallerios.com/Screenshots/SailyScreenshot2.png"
+    "Screenshot2": "https://appinstallerios.com/Screenshots/SailyScreenshot2.png",
+    "AppSlider": false
   }
 ]
