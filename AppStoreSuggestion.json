@@ -1,31 +1,21 @@
  [
   {
     "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/03/2f/af/032faf5f-9540-98cd-881d-a97fbbaedd07/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/100x100bb.png",
-    "genres": [],
     "id": "333903271",
     "artistName": "Twitter, Inc.",
-    "releaseDate": "2009-10-09",
-    "kind": "apps",
-    "name": "Twitter",
-    "url": "https://apps.apple.com/us/app/twitter/id333903271"
+    "name": "Twitter"
   },
   {
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fd/01/d0/fd01d0f2-fbed-2aef-979b-48c311e4953d/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
     "id": "389801252",
     "artistName": "Instagram, Inc.",
-    "releaseDate": "2010-10-06",
-    "kind": "apps",
-    "name": "Instagram",
-    "url": "https://apps.apple.com/us/app/instagram/id389801252"
+    "name": "Instagram"
   },
   {
     "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/58/dc/8f58dc5e-e95a-ea0b-103a-2f7fca7ec693/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
     "genres": [],
     "id": "835599320",
     "artistName": "TikTok Ltd.",
-    "releaseDate": "2014-04-02",
-    "kind": "apps",
-    "name": "TikTok",
-    "url": "https://apps.apple.com/us/app/tiktok/id835599320"
+    "name": "TikTok"
   }
 ]
