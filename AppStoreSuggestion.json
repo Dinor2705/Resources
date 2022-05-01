@@ -28,12 +28,12 @@
     "name": "TikTok"
   },
   {
-         "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/07/43/2d0743ce-e5dc-2eda-fa50-987cf47f25f1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-         "id": "454638411",
-        "artistName": "Meta Platforms, Inc.",
-        "releaseDate": "2011-08-09",
-        "kind": "apps",
-        "name": "Messenger",
-        "url": "https://apps.apple.com/us/app/messenger/id454638411"
+    "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/2d/07/43/2d0743ce-e5dc-2eda-fa50-987cf47f25f1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+    "id": "454638411",
+    "artistName": "Meta Platforms, Inc.",
+    "releaseDate": "2011-08-09",
+    "kind": "apps",
+    "name": "Messenger",
+    "url": "https://apps.apple.com/us/app/messenger/id454638411"
   }
 ]
