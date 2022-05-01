@@ -1,1 +1,82 @@
-
+ [
+      {
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/20/f1/85/20f185cb-0d45-66c6-de55-7cbc079b4cbd/AppIcon-1x_U007emarketing-0-2-85-220.png/100x100bb.png",
+        "genres": [],
+        "id": "1586018825",
+        "artistName": "T Media Tech LLC",
+        "releaseDate": "2022-02-21",
+        "kind": "apps",
+        "name": "Truth Social",
+        "url": "https://apps.apple.com/us/app/truth-social/id1586018825"
+      },
+      {
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/03/2f/af/032faf5f-9540-98cd-881d-a97fbbaedd07/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "id": "333903271",
+        "artistName": "Twitter, Inc.",
+        "releaseDate": "2009-10-09",
+        "kind": "apps",
+        "name": "Twitter",
+        "url": "https://apps.apple.com/us/app/twitter/id333903271"
+      },
+      {
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/58/dc/8f58dc5e-e95a-ea0b-103a-2f7fca7ec693/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+        "genres": [],
+        "id": "835599320",
+        "artistName": "TikTok Ltd.",
+        "releaseDate": "2014-04-02",
+        "kind": "apps",
+        "name": "TikTok",
+        "url": "https://apps.apple.com/us/app/tiktok/id835599320"
+      },
+      {
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/b5/1b/b8/b51bb8bc-4519-c486-40e2-f205f282f6ed/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+        "genres": [],
+        "id": "1500855883",
+        "artistName": "Bytedance Pte. Ltd",
+        "releaseDate": "2020-04-14",
+        "kind": "apps",
+        "name": "CapCut - Video Editor",
+        "url": "https://apps.apple.com/us/app/capcut-video-editor/id1500855883"
+      },
+      {
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/95/f5/7f/95f57f90-1118-1fde-0e73-61da41be4948/logo_maps_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "id": "585027354",
+        "artistName": "Google LLC",
+        "releaseDate": "2012-12-13",
+        "kind": "apps",
+        "name": "Google Maps",
+        "url": "https://apps.apple.com/us/app/google-maps/id585027354"
+      },
+      {
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/46/5d/38/465d3879-cc93-9221-5805-18bf22fb90d6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+        "genres": [],
+        "id": "878577184",
+        "artistName": "Shein Group Ltd",
+        "releaseDate": "2014-05-20",
+        "kind": "apps",
+        "name": "SHEIN - Online Fashion",
+        "url": "https://apps.apple.com/us/app/shein-online-fashion/id878577184"
+      },
+      {
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/c9/a9/9cc9a955-a6a3-6c61-9b9a-09f7d051c226/AppIconLLC-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "id": "686449807",
+        "artistName": "Telegram FZ-LLC",
+        "releaseDate": "2013-08-14",
+        "kind": "apps",
+        "name": "Telegram Messenger",
+        "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+      },
+      {
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/19/44/d3/1944d356-0e33-74f9-2ec6-57b92d97222b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [],
+        "id": "711923939",
+        "artistName": "Square, Inc.",
+        "releaseDate": "2013-10-16",
+        "kind": "apps",
+        "name": "Cash App",
+        "url": "https://apps.apple.com/us/app/cash-app/id711923939"
+      }
+    ]
