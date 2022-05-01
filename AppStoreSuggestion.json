@@ -1,11 +1,12 @@
- [
-   "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/42/6e/2e/426e2e94-2b7c-42d2-de2c-18c0415e54d0/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
-          "id": "544007664",
-        "artistName": "Google LLC",
-        "releaseDate": "2012-09-11",
-        "kind": "apps",
-        "name": "YouTube: Watch, Listen, Stream",
-        "url": "https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664"
+[
+  {
+    "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/42/6e/2e/426e2e94-2b7c-42d2-de2c-18c0415e54d0/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+    "id": "544007664",
+    "artistName": "Google LLC",
+    "releaseDate": "2012-09-11",
+    "kind": "apps",
+    "name": "YouTube: Watch, Listen, Stream",
+    "url": "https://apps.apple.com/us/app/youtube-watch-listen-stream/id544007664"
   },
   {
     "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/03/2f/af/032faf5f-9540-98cd-881d-a97fbbaedd07/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/100x100bb.png",
