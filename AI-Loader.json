@@ -40,6 +40,17 @@
       "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
       "https://appinstallerios.com/Screenshots/SailyScreenshot2.png"
     ],
+    "AppSlider": false
+  },
+  {
+    "AppName": "ZiniTevi",
+    "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist",
+    "AppBanner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
+    "AppScreenshots": [
+      "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
+      "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png"
+    ],
     "AppSlider": true
   }
 ]
