@@ -1,7 +1,7 @@
 [
   {
     "AppName": "unc0ver",
-    "AppDeveloper": "unc0ver-Team",
+    "AppDeveloper": "unc0ver Team",
     "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
     "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
@@ -15,7 +15,7 @@
   },
   {
     "AppName": "Taurine",
-    "AppDeveloper": "Odyssey-Team",
+    "AppDeveloper": "Odyssey Team",
     "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/Taurine.plist",
     "AppBanner": "https://appinstallerios.com/Img/TaurineBanner.png",
