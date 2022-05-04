@@ -1,7 +1,7 @@
 [
   {
-    "version": "4.4.4",
-    "log": "AI Loader Bug Fixes",
+    "version": "4.4.5",
+    "log": "Allowing AI Loader Repos To Use An Array Of Screenshots",
     "signed": false
   }
 ]
