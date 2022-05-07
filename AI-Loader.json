@@ -1,7 +1,7 @@
 [
   {
     "AppName": "unc0ver",
-    "AppDeveloper": "unc0ver Team",
+    "AppDeveloper": "Benjamin",
     "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
     "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
@@ -13,7 +13,7 @@
   },
   {
     "AppName": "Taurine",
-    "AppDeveloper": "Odyssey Team",
+    "AppDeveloper": "Benjamin",
     "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/Taurine.plist",
     "AppBanner": "https://appinstallerios.com/Img/TaurineBanner.png",
@@ -27,7 +27,7 @@
   },
   {
     "AppName": "Saily",
-    "AppDeveloper": "Saily Team",
+    "AppDeveloper": "Benjamin",
     "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/Saily.plist",
     "AppBanner": "https://appinstallerios.com/Img/SailyBanner.png",
@@ -36,17 +36,6 @@
     "AppScreenshots": [
       "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
       "https://appinstallerios.com/Screenshots/SailyScreenshot2.png"
-    ],
-    "AppSlider": true
-  },
-  {
-    "AppName": "ZiniTevi",
-    "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
-    "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist",
-    "AppBanner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
-    "AppScreenshots": [
-      "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
-      "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png"
     ],
     "AppSlider": true
   }
