@@ -1,0 +1,14 @@
+[
+  {
+    "Title": "Unc0ver",
+    "Dev": "Pwn2Own",
+    "Version": "8.0.2",
+    "Active": "true",
+    "Install": "https://appinstallerios.com/plist/unc0ver.plist",
+    "IPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+    "Web": "https://unc0ver.dev",
+    "Icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
+    "Message": "The Most Advanced Jailbreak Tool",
+    "Twitter": "https://twitter.com/appinstallerios"
+  }
+]
