@@ -1,12 +1,12 @@
 [
   {
-    "AppName": "unc0ver",
+    "AppName": "AppleZone",
     "AppDeveloper": "Benjamin",
     "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
     "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
-    "Twitter": "unc0verTeam",
-    "Website": "https://unc0ver.dev",
+    "Twitter": "UseAppleZone",
+    "Website": "https://UseAppleZone.com",
     "AppScreenshots": [
     ],
     "AppSlider": true
