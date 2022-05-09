@@ -52,14 +52,14 @@
       "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
       "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png"
     ],
-    "AppSlider": true
+    "AppSlider": false
   },
   {
     "AppName": "New OS Beta",
     "AppDeveloper": "Benjamin Hornbeck",
     "AppIcon": "https://icons.appinstallerios.com/NewOSIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
-    "AppBanner": "",
+    "AppBanner": "https://appinstallerios.com/Img/NewOSBanner.png",
     "Twitter": "NewOSapp",
     "Website": "https://appinstallerios.com",
     "AppDescription": "BrInging The iOS 11 Experience In An App!",
@@ -70,6 +70,6 @@
       "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
       "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png"
     ],
-    "AppSlider": false
+    "AppSlider": true
   }
 ]
