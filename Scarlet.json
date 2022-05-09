@@ -1,6 +1,6 @@
 {
   "META": {
-    "repoName": "AI iOS",
+    "repoName": "AppInstaller iOS",
     "repoIcon": "https://appinstallerios.com/AppResources/AI-Icon/AppInstalleriOSIcon.png"
   },
   "Tweaked": [
@@ -12,7 +12,7 @@
       "dev": "Benjamin",
       "banner": "https://appinstallerios.com/Img/Gradient.PNG",
       "category": "Tweaked",
-      "description": "AI iOS",
+      "description": "",
       "bundleID": "com.ApplnstalleriOS.Appinstaller-iOS",
       "contact": {
         "web": "https://appinstallerios.com/",
