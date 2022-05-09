@@ -1,12 +1,12 @@
 {
-  "name": "AI",
-  "identifier": "com.AppInstalleriOS.AI",
+  "name": "AppInstalleriOS",
+  "identifier": "com.AppInstalleriOS.AppInstalleriOS",
   "sourceURL": "https://appinstallerios.com/Resources/AI.json",
   "apps": [],
   "news": [
    {
-      "title": "AIapps",
-      "identifier": "com.AppInstalleriOS.AI.AltStoreRepo.Home",
+      "title": "AppInstalleriOS",
+      "identifier": "com.AppInstalleriOS.AppInstalleriOS.AltStoreRepo.Home",
       "caption": "Tap To View",
       "url": "https://appinstallerios.com/Resources/AI.html",
       "tintColor": "1C0B36",
