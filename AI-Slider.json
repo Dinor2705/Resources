@@ -46,11 +46,9 @@
   },
     {
     "AppName": "ZiniTevi",
-    "AppDeveloper": "",
     "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist",
     "AppBanner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
-    "Twitter": "",
     "Website": "https://ziniteviapp.github.io",
     "Screenshot1": "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
     "Screenshot2": "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png",
@@ -60,7 +58,7 @@
     ]
   },
   {
-    "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
-    "Website": "https://unc0ver.dev"
+    "AppBanner": "https://appinstallerios.com/Img/Banner.png",
+    "Website": "https://appinstallerios.com"
   }
 ]
