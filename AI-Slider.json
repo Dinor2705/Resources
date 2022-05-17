@@ -46,6 +46,7 @@
   },
     {
     "AppName": "ZiniTevi",
+    "AppDeveloper": "",
     "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist",
     "AppBanner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
