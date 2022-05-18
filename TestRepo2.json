@@ -1,14 +1,6 @@
-{
-  "RepoName": "My Rpeo",
-  "RepoIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
-  "Apps": [
-    {
-      "AppName": "Yourube",
-      "AppDev": "google"
-    },
-    {
-      "AppName": "Zinitevi",
-      "AppDev": "idk"
-    }
-  ]
-}
+[
+  {
+    "RepoName": "Test",
+    "Website": "https://getiosbeta.useapplezone.com"
+  }
+]
