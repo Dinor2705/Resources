@@ -1,14 +1,6 @@
-{
-  "RepoName": "Taurine Rpeo",
-  "RepoIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
-  "Apps": [
-    {
-      "AppName": "Unc0ver",
-      "AppDev": "Idk"
-    },
-    {
-      "AppName": "Taurine",
-      "AppDev": "Test"
-    }
-  ]
-}
+[
+  {
+    "RepoName": "Test",
+    "Website": "https://getiosbeta.useapplezone.com"
+  }
+]
