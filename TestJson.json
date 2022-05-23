@@ -1,0 +1,81 @@
+{
+  "Apps": [
+    {
+      "AppName": "unc0ver",
+      "AppDeveloper": "unc0ver Team",
+      "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
+      "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
+      "Twitter": "unc0verTeam",
+      "Website": "https://unc0ver.dev",
+      "AppDescription": "The most advanced jailbreak tool",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png"
+      ],
+      "AppSlider": true
+    },
+    {
+      "AppName": "Taurine",
+      "AppDeveloper": "Odyssey Team",
+      "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/Taurine.plist",
+      "AppBanner": "https://appinstallerios.com/Img/TaurineBanner.png",
+      "Twitter": "OdysseyTeam_",
+      "Website": "https://taurine.app",
+      "AppDescription": "Time to get amped",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png"
+      ],
+      "AppSlider": true
+    },
+    {
+      "AppName": "Saily",
+      "AppDeveloper": "Saily Team",
+      "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/Saily.plist",
+      "AppBanner": "https://appinstallerios.com/Img/SailyBanner.png",
+      "Twitter": "TrySaily",
+      "Website": "https://sailyteam.github.io",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/SailyScreenshot2.png"
+      ],
+      "AppSlider": true
+    },
+    {
+      "AppName": "ZiniTevi",
+      "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist",
+      "AppBanner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png"
+      ],
+      "AppSlider": false
+    },
+    {
+      "AppName": "New OS Beta",
+      "AppDeveloper": "Benjamin Hornbeck",
+      "AppIcon": "https://icons.appinstallerios.com/NewOSIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
+      "AppBanner": "https://appinstallerios.com/Img/NewOSBanner.png",
+      "Twitter": "NewOSapp",
+      "Website": "https://appinstallerios.com",
+      "AppDescription": "Bringing The iOS 11 Experience In An App!",
+      "IPA": "https://appinstallerios.com/AppCenter/NewOS.ipa",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot2.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png"
+      ],
+      "AppSlider": true
+    }
+  ],
+  "Meta": {
+    "RepoName": "Test Repo",
+    "RepoIcon": "unc0vericon"
+  }
+}
