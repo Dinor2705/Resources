@@ -1,7 +1,8 @@
 {
   "Apps": [
-    {
-        "AppName": "AppInstalleriOS",
+    
+  {
+    "AppName": "AppInstalleriOS",
     "AppDeveloper": "Benjamin Hornbeck",
     "AppIcon": "https://appinstallerios.com/Img/AppInstalleriOSIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/AppInstalleriOSPublic.plist",
@@ -10,7 +11,7 @@
     "Website": "https://appinstallerios.com",
     "AppScreenshots": [],
     "AppSlider": true
-  ]
+  }
   "Meta": {
     "RepoName": "AppInstaller iOS",
     "RepoIcon": "https://icons.appinstallerios.com/AppInstalleriOSIcon.png"
