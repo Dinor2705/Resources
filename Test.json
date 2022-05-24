@@ -1,22 +1,26 @@
-[
-  {
-    "AppName": "unc0ver",
-    "AppDeveloper": "unc0ver-Team",
-    "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
-    "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
-    "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
-    "Twitter": "unc0verTeam",
-    "Website": "https://unc0ver.dev",
-    "Screenshot1": "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
-    "Screenshot2": "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png",
-    "AppScreenshots": [
-      "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
-      "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png"
-    ]
+{
+  "Apps": [
+    {
+      "AppName": "New OS Beta",
+      "AppDeveloper": "Benjamin Hornbeck",
+      "AppIcon": "https://icons.appinstallerios.com/NewOSIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
+      "AppBanner": "https://appinstallerios.com/Img/NewOSBanner.png",
+      "Twitter": "NewOSapp",
+      "Website": "https://appinstallerios.com",
+      "AppDescription": "Bringing The iOS 11 Experience In An App!",
+      "IPA": "https://appinstallerios.com/AppCenter/NewOS.ipa",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot2.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png"
+      ],
+      "AppSlider": true
+    }
+  ],
+  "Meta": {
+    "RepoName": "AppInstaller iOS",
+    "RepoIcon": "https://icons.appinstallerios.com/AppInstalleriOSIcon.png"
   }
-  {
-    "AppBanner": "https://appinstallerios.com/Img/WWDCBanner.png",
-    "Website": "https://appinstallerios.com/Resources/AppleEvent"
-  }
-  
-]
+}
