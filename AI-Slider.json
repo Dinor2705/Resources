@@ -1,8 +1,4 @@
-[  
-  {
-    "AppBanner": "https://appinstallerios.com/Img/WWDCBanner.png",
-    "Website": "https://appinstallerios.com/Resources/AppleEvent"
-  }, 
+[
   {
     "AppName": "unc0ver",
     "AppDeveloper": "unc0ver-Team",
@@ -61,6 +57,10 @@
       "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png"
     ]
   },
+  {
+    "AppBanner": "https://appinstallerios.com/Img/WWDCBanner.png",
+    "Website": "https://appinstallerios.com/Resources/AppleEvent"
+  }, 
   {
     "AppBanner": "https://appinstallerios.com/Img/AppleBetaBanner.png",
     "Website": "https://appinstallerios.com/Resources/AppleBeta"
