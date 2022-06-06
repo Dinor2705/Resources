@@ -1,24 +1,69 @@
-[ 
+[
   {
-    "AppBanner": "https://is1-ssl.mzstatic.com/image/thumb/Features112/v4/5e/08/8a/5e088ae1-9e75-e84a-bf9c-bd4b1fa166a2/319f59a8-114a-4e2c-84c7-242a63275b69.lsr/828x434fe.png",
+    "AppName": "unc0ver",
+    "AppDeveloper": "unc0ver-Team",
+    "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
+    "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
+    "Twitter": "unc0verTeam",
+    "Website": "https://unc0ver.dev",
+    "Screenshot1": "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
+    "Screenshot2": "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png",
+    "AppScreenshots": [
+      "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
+      "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png"
+    ]
+  },
+  {
+    "AppName": "Taurine",
+    "AppDeveloper": "Odyssey-Team",
+    "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Taurine.plist",
+    "AppBanner": "https://appinstallerios.com/Img/TaurineBanner.png",
+    "Twitter": "OdysseyTeam_",
+    "Website": "https://taurine.app",
+    "Screenshot1": "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
+    "Screenshot2": "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png",
+    "AppScreenshots": [
+      "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
+      "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png"
+    ]
+  },
+  {
+    "AppName": "Saily",
+    "AppDeveloper": "Saily Team",
+    "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Saily.plist",
+    "AppBanner": "https://appinstallerios.com/Img/SailyBanner.png",
+    "Twitter": "TrySaily",
+    "Website": "https://sailyteam.github.io",
+    "Screenshot1": "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
+    "Screenshot2": "https://appinstallerios.com/Screenshots/SailyScreenshot2.png",
+    "AppScreenshots": [
+      "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
+      "https://appinstallerios.com/Screenshots/SailyScreenshot2.png"
+    ]
+  },
+    {
+    "AppName": "ZiniTevi",
+    "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist",
+    "AppBanner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
+    "Website": "https://ziniteviapp.github.io",
+    "Screenshot1": "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
+    "Screenshot2": "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png",
+    "AppScreenshots": [
+      "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
+      "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png"
+    ]
+  },
+  {
+    "AppBanner": "https://appinstallerios.com/Img/WWDCBanner.png",
     "Website": "https://appinstallerios.com/Resources/AppleEvent"
   }, 
+  {
+    "AppBanner": "https://appinstallerios.com/Img/AppleBetaBanner.png",
+    "Website": "https://appinstallerios.com/Resources/AppleBeta"
+  }
   
-  {
-    "AppBanner": "https://is5-ssl.mzstatic.com/image/thumb/Features122/v4/f3/62/57/f362572a-891c-a234-35ee-67af64243679/752d6f83-6eef-4528-9784-8c58552604aa.lsr/828x434fe.png",
-    "Website": "https://appinstallerios.com/Resources/AppleEvent"
-  }, 
-  
-  {
-    "AppBanner": "https://is3-ssl.mzstatic.com/image/thumb/Features112/v4/15/f4/16/15f4162e-d64c-493e-1254-99c0013e5eb8/3627c2c9-9fc9-4bbf-bcf4-843a8702b980.lsr/828x434fe.png",
-    "Website": "https://appinstallerios.com/Resources/AppleEvent"
-  }, 
-  {
-    "AppBanner": "https://is4-ssl.mzstatic.com/image/thumb/Features122/v4/00/7b/49/007b4986-8652-0d00-6b71-b2880f96d0f3/ffad7af2-58b6-4364-a3f7-492f124fc7f1.lsr/828x434fe.png",
-    "Website": "https://appinstallerios.com/Resources/AppleEvent"
-  }, 
-  {
-    "AppBanner": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/c1/0c/98/c10c983e-5013-d777-7b43-0a19fd8c583e/b736be9b-8f95-4aca-9049-d76489815b1f.lsr/828x434fe.png",
-    "Website": "https://appinstallerios.com/Resources/AppleEvent"
-  } 
 ]
