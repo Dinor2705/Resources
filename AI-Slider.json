@@ -58,10 +58,6 @@
     ]
   },
   {
-    "AppBanner": "https://appinstallerios.com/Img/WWDCBanner.png",
-    "Website": "https://appinstallerios.com/Resources/AppleEvent"
-  }, 
-  {
     "AppBanner": "https://appinstallerios.com/Img/AppleBetaBanner.png",
     "Website": "https://appinstallerios.com/Resources/AppleBeta"
   }
