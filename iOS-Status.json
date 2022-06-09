@@ -1,50 +1,62 @@
 [
   {
     "iOS": "15.5",
-    "Signed": true
+    "Signed": true,
+    "Icon": "iOS16"
   },
   {
     "iOS": "15.4.1",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.4",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.3.1",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.3",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.2.1",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.2",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.1.1",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.1",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.0.2",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.0.1",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   },
   {
     "iOS": "15.0",
-    "Signed": false
+    "Signed": false,
+    "Icon": "iOS15"
   }
 ]
