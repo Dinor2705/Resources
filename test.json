@@ -1,9 +1,9 @@
 {
   "Apps": [
     {
-      "AppName": "unc0ver",
-      "AppDeveloper": "unc0ver Team",
-      "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
+      "AppName": "testapp 1",
+      "AppDeveloper": "3y35",
+      "AppIcon": "https://icons.appinstallerios.com/CydiaIcon.png",
       "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
       "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
       "Twitter": "unc0verTeam",
@@ -16,9 +16,9 @@
       "AppSlider": true
     },
     {
-      "AppName": "Taurine",
+      "AppName": "testapp 2",
       "AppDeveloper": "Odyssey Team",
-      "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
+      "AppIcon": "https://icons.appinstallerios.com/CydiaIcon.png",
       "AppPlist": "https://appinstallerios.com/plist/Taurine.plist",
       "AppBanner": "https://appinstallerios.com/Img/TaurineBanner.png",
       "Twitter": "OdysseyTeam_",
@@ -27,20 +27,6 @@
       "AppScreenshots": [
         "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
         "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png"
-      ],
-      "AppSlider": true
-    },
-    {
-      "AppName": "Saily",
-      "AppDeveloper": "Saily Team",
-      "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
-      "AppPlist": "https://appinstallerios.com/plist/Saily.plist",
-      "AppBanner": "https://appinstallerios.com/Img/SailyBanner.png",
-      "Twitter": "TrySaily",
-      "Website": "https://sailyteam.github.io",
-      "AppScreenshots": [
-        "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
-        "https://appinstallerios.com/Screenshots/SailyScreenshot2.png"
       ],
       "AppSlider": true
     }
