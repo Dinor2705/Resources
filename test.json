@@ -9,11 +9,11 @@
       "Twitter": "unc0verTeam",
       "Website": "https://unc0ver.dev",
       "AppDescription": "The most advanced jailbreak tool",
+      "AppSection": "Jailbreaks",
       "AppScreenshots": [
         "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
         "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png"
-      ],
-      "AppSlider": true
+      ]
     },
     {
       "AppName": "testapp 2",
@@ -24,11 +24,11 @@
       "Twitter": "OdysseyTeam_",
       "Website": "https://taurine.app",
       "AppDescription": "Time to get amped",
+      "AppSection": "Other",
       "AppScreenshots": [
         "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
         "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png"
-      ],
-      "AppSlider": true
+      ]
     }
   ],
   "Meta": {
