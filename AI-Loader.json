@@ -16,46 +16,6 @@
       "AppSlider": true
     },
     {
-      "AppName": "Taurine",
-      "AppDeveloper": "Odyssey Team",
-      "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
-      "AppPlist": "https://appinstallerios.com/plist/Taurine.plist",
-      "AppBanner": "https://appinstallerios.com/Img/TaurineBanner.png",
-      "Twitter": "OdysseyTeam_",
-      "Website": "https://taurine.app",
-      "AppDescription": "Time to get amped",
-      "AppScreenshots": [
-        "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
-        "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png"
-      ],
-      "AppSlider": true
-    },
-    {
-      "AppName": "Saily",
-      "AppDeveloper": "Saily Team",
-      "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
-      "AppPlist": "https://appinstallerios.com/plist/Saily.plist",
-      "AppBanner": "https://appinstallerios.com/Img/SailyBanner.png",
-      "Twitter": "TrySaily",
-      "Website": "https://sailyteam.github.io",
-      "AppScreenshots": [
-        "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
-        "https://appinstallerios.com/Screenshots/SailyScreenshot2.png"
-      ],
-      "AppSlider": true
-    },
-    {
-      "AppName": "ZiniTevi",
-      "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
-      "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist",
-      "AppBanner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
-      "AppScreenshots": [
-        "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
-        "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png"
-      ],
-      "AppSlider": false
-    },
-    {
       "AppName": "New OS Beta",
       "AppDeveloper": "Benjamin Hornbeck",
       "AppIcon": "https://icons.appinstallerios.com/NewOSIcon.png",
