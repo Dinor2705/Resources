@@ -10,13 +10,13 @@
       "Website": "https://appinstallerios.com",
       "AppDescription": "Bringing The iOS 11 Experience In An App!",
       "IPA": "https://appinstallerios.com/AppCenter/NewOS.ipa",
+      "AppSection": "Other",
       "AppScreenshots": [
         "https://appinstallerios.com/Screenshots/NewOSScreenshot1.png",
         "https://appinstallerios.com/Screenshots/NewOSScreenshot2.png",
         "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
         "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png"
-      ],
-      "AppSlider": true
+      ]
     }
   ],
   "Meta": {
