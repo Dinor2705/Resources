@@ -107,6 +107,42 @@
         "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
         "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png"
       ]
+    },
+    {
+      "AppName": "App 7",
+      "AppDeveloper": "Benjamin Hornbeck",
+      "AppIcon": "https://icons.appinstallerios.com/Installer5Icon.png",
+      "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
+      "AppBanner": "https://appinstallerios.com/Img/NewOSBanner.png",
+      "Twitter": "NewOSapp",
+      "Website": "https://appinstallerios.com",
+      "AppDescription": "Bringing The iOS 11 Experience In An App!",
+      "IPA": "https://appinstallerios.com/AppCenter/NewOS.ipa",
+      "AppSection": "Tweaked",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot2.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png"
+      ]
+    },
+    {
+      "AppName": "App 8",
+      "AppDeveloper": "Benjamin Hornbeck",
+      "AppIcon": "https://icons.appinstallerios.com/Installer5Icon.png",
+      "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
+      "AppBanner": "https://appinstallerios.com/Img/NewOSBanner.png",
+      "Twitter": "NewOSapp",
+      "Website": "https://appinstallerios.com",
+      "AppDescription": "Bringing The iOS 11 Experience In An App!",
+      "IPA": "https://appinstallerios.com/AppCenter/NewOS.ipa",
+      "AppSection": "Tweaked",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot2.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png"
+      ]
     }
   ],
   "Meta": {
