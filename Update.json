@@ -1,7 +1,7 @@
 [
   {
-    "version": "4.8.2",
-    "log": "Improvements",
-    "signed": false
+    "version": "5.0.0",
+    "log": "UI Improvements, New App Store Features, AI Cloud (A Way To Add Apps To AppInstaller iOS From A Repo), Added Install With AltStore And Install With Scarlet (Not All Apps Will Have It) And Bug Fixes",
+    "signed": true
   }
 ]
