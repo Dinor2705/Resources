@@ -1,0 +1,27 @@
+{
+  "Apps": [
+    {
+      "AppName": "New OS Beta",
+      "AppDeveloper": "Benjamin Hornbeck",
+      "AppIcon": "https://icons.appinstallerios.com/NewOSIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
+      "AppBanner": "https://appinstallerios.com/Img/NewOSBanner.png",
+      "Twitter": "NewOSapp",
+      "Website": "https://appinstallerios.com",
+      "AppDescription": "Bringing The iOS 11 Experience In An App!",
+      "IPA": "https://appinstallerios.com/AppCenter/NewOS.ipa",
+      "AppSection": "Other",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot2.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png"
+      ]
+    }
+  ],
+  "Meta": {
+    "RepoName": "Test Repo",
+    "RepoIcon": "https://icons.appinstallerios.com/Installer5Icon.png",
+    "RepoURL": "https://appinstallerios.com/Resources/test.json"
+  }
+}
