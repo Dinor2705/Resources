@@ -219,7 +219,7 @@
   ],
   "Meta": {
     "RepoName": "Test Repo",
-    "RepoIcon": "https://icons.appinstallerios.com/Installer5Icon.png",
+    "RepoIcon": "",
     "RepoURL": "https://appinstallerios.com/Resources/test.json"
   }
 }
