@@ -1,7 +1,7 @@
 [
   {
-    "version": "5.0.2",
-    "log": "AppStore Improvements, AI Cloud Improvements And Added A Section Called From AI Cloud",
+    "version": "5.0.3",
+    "log": "AppStore Improvements, Added A URL Scheme To AI Cloud (ai://https://example.com/repo.json) And Added A Way To Copy Screenshot URLs",
     "signed": true
   }
 ]
