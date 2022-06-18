@@ -1,7 +1,7 @@
 [
   {
-    "version": "5.0.3",
-    "log": "AppStore Improvements, Added A URL Scheme To AI Cloud (ai://https://example.com/repo.json) And Added A Way To Copy Screenshot URLs",
+    "version": "5.0.4",
+    "log": "Added App Store For iOS 14 And Bug Fixes",
     "signed": true
   }
 ]
