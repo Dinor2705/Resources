@@ -20,6 +20,25 @@
         "https://appinstallerios.com/Screenshots/NewOSScreenshot6.png",
         "https://appinstallerios.com/Screenshots/NewOSScreenshot7.png"
       ]
+    },
+
+    {
+      "AppName": "ESign",
+      "AppIcon": "https://icons.appinstallerios.com/ESignIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
+      "Website": "https://appinstallerios.com",
+      "AppDescription": "Sign Apps Without A Computer Or Jailbreak",
+      "IPA": "https://appinstallerios.com/AppCenter/ESign.ipa",
+      "AppSection": "Other",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot2.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot5.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot6.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot7.png"
+      ]
     }
   ],
   "Meta": {
