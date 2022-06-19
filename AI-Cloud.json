@@ -25,7 +25,7 @@
     {
       "AppName": "ESign",
       "AppIcon": "https://icons.appinstallerios.com/ESignIcon.png",
-      "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
+      "AppPlist": "https://appinstallerios.com/plist/ESign.plist",
       "Website": "https://appinstallerios.com",
       "AppDescription": "Sign Apps Without A Computer Or Jailbreak",
       "IPA": "https://appinstallerios.com/AppCenter/ESign.ipa",
