@@ -26,7 +26,7 @@
       "AppDeveloper": "",
       "AppIcon": "https://icons.appinstallerios.com/ESignIcon.png",
       "AppPlist": "https://appinstallerios.com/plist/ESign.plist",
-      "AppBanner": "",
+      "AppBanner": "https://appinstallerios.com/Img/ESignBanner.png",
       "Website": "https://appinstallerios.com/cert",
       "AppDescription": "ESign is a ReProvision alternative allowing users to sign and install IPA packages on iOS devices without the need of a computer or jailbreak",
       "IPA": "https://appinstallerios.com/AppCenter/ESign.ipa",
