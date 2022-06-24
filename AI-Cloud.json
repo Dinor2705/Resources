@@ -40,6 +40,26 @@
         "https://appinstallerios.com/Screenshots/ESignScreenshot6.png",
         "https://appinstallerios.com/Screenshots/ESignScreenshot7.png"
       ]
+    },
+    {
+      "AppName": "Mediabox HD",
+      "AppDeveloper": "",
+      "AppIcon": "https://icons.appinstallerios.com/MediaboxHDIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/ESign.plist",
+      "AppBanner": "https://appinstallerios.com/Img/ESignBanner.png",
+      "Website": "https://appinstallerios.com/cert",
+      "AppDescription": "ESign is a ReProvision alternative allowing users to sign and install IPA packages on iOS devices without the need of a computer or jailbreak",
+      "IPA": "https://appinstallerios.com/AppCenter/ESign.ipa",
+      "AppSection": "Other",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/ESignScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/ESignScreenshot2.png",
+        "https://appinstallerios.com/Screenshots/ESignScreenshot3.png",
+        "https://appinstallerios.com/Screenshots/ESignScreenshot4.png",
+        "https://appinstallerios.com/Screenshots/ESignScreenshot5.png",
+        "https://appinstallerios.com/Screenshots/ESignScreenshot6.png",
+        "https://appinstallerios.com/Screenshots/ESignScreenshot7.png"
+      ]
     }
   ],
   "Meta": {
