@@ -2,9 +2,6 @@
   {
     "version": "5.1.0",
     "log": "AI Cloud Improvements And App Store Improvements",
-    "signed": true,
-    "p12": "0ae3d6266637",
-    "mobileprovision": "4d78b728b109",
-    "password": "1"
+    "signed": true
   }
 ]
