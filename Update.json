@@ -1,7 +1,7 @@
 [
   {
-    "version": "5.1.0",
-    "log": "AI Cloud Improvements And App Store Improvements",
+    "version": "5.1.1",
+    "log": "Added Cloud Installer (Cloud Installer Is A Way To Sign And Install Apps With Starfiles)",
     "signed": true
   }
 ]
