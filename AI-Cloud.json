@@ -3,7 +3,7 @@
     {
       "AppName": "New OS Beta",
       "AppDeveloper": "Benjamin Hornbeck",
-      "AppIcon": "https://icons.appinstallerios.com/.png",
+      "AppIcon": "https://icons.appinstallerios.com/NewOSIcon.png",
       "AppPlist": "https://appinstallerios.com/plist/NewOS.plist",
       "AppBanner": "https://appinstallerios.com/Img/NewOSBanner.png",
       "Twitter": "NewOSapp",
