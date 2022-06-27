@@ -2,6 +2,6 @@
   {
     "version": "5.1.1",
     "log": "Added Cloud Installer (Cloud Installer Is A Way To Sign And Install Apps With Starfiles)",
-    "signed": true
+    "signed": false
   }
 ]
