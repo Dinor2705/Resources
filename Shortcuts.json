@@ -36,10 +36,10 @@
     "ShortcutRun": "Get%20IPA%20From%20Plist"
   },
   {
-    "ShortcutName": "Install IPA Files",
+    "ShortcutName": "Install IPA",
     "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
-    "ShortcutID": "54df7a41f5ed4c909e59c7e808263822",
-    "ShortcutRun": "Install%20IPA%20Files"
+    "ShortcutID": "9a1eefbfdad54474b6d6083ca1d32f6e",
+    "ShortcutRun": "Install%20IPA"
   },
   {
     "ShortcutName": "Scarlet Repo",
