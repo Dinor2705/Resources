@@ -1,1 +1,8 @@
-
+[
+  {
+    "Name": "Apple",
+    "url": "https://apple.com",
+    "SafariPopup": false,
+    "Active": true
+  }
+]
