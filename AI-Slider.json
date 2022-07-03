@@ -59,11 +59,7 @@
   },
   {
     "AppBanner": "https://appinstallerios.com/Img/AppleBetaBanner.png",
-    "Website": "https://appinstallerios.com/Resources/AppleBeta",
-    "AlertMessage": "https://appinstallerios.com/Resources/AppleBeta",
-    "AlertTitle": "https://appinstallerios.com/Resources/AppleBeta",
-    "Alert": true,
-    "AlertButton": true
+    "Website": "https://appinstallerios.com/Resources/AppleBeta"
   }
   
 ]
