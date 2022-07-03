@@ -1,7 +1,7 @@
 [
   {
     "Name": "Apple",
-    "url": "https://apple.com",
+    "URL": "https://apple.com",
     "SafariPopup": false,
     "Active": true
   }
