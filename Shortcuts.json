@@ -17,55 +17,64 @@
     "ShortcutName": "Get App Info From App Store App",
     "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
     "ShortcutID": "04c4530a8a5c4f229c3338d169a4750b",
-    "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App"
+    "ShortcutRun": "Get%20App%20Info%20From%20App%20Store%20App",
+    "Shortcut": false
   },
   {
     "ShortcutName": "Search Apple Music",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
     "ShortcutID": "c5c1fc080f4445f49ab244b7e0ecfabe",
-    "ShortcutRun": "Search%20Apple%20Music"
+    "ShortcutRun": "Search%20Apple%20Music",
+    "Shortcut": false
   },
   {
     "ShortcutName": "Search And Play Apple Music",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/f7/ea/12/f7ea1219-ad76-643f-d722-29e339b65a51/source/100x100bb.jpg",
     "ShortcutID": "fbcdc4ee3ca0490a9675623500a362f8",
-    "ShortcutRun": "Search%20And%20Play%20Apple%20Music"
+    "ShortcutRun": "Search%20And%20Play%20Apple%20Music",
+    "Shortcut": false
   },
   {
     "ShortcutName": "Get IPA From Plist",
     "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
     "ShortcutID": "453ed1c08d9a46f6a187f946ca78b5c1",
-    "ShortcutRun": "Get%20IPA%20From%20Plist"
+    "ShortcutRun": "Get%20IPA%20From%20Plist",
+    "Shortcut": false
   },
   {
     "ShortcutName": "Install IPA",
     "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
     "ShortcutID": "9a1eefbfdad54474b6d6083ca1d32f6e",
-    "ShortcutRun": "Install%20IPA"
+    "ShortcutRun": "Install%20IPA",
+    "Shortcut": false
   },
   {
     "ShortcutName": "Scarlet Repo",
     "ShortcutIcon": "https://icons.appinstallerios.com/ScarletIcon.png",
     "ShortcutID": "d92a7f638d854c7cb9f685f2d4a10035",
-    "ShortcutRun": "Scarlet%20Repo"
+    "ShortcutRun": "Scarlet%20Repo",
+    "Shortcut": false
   },
   {
     "ShortcutName": "Json Installer",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
     "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
-    "ShortcutRun": "Json%20Installer"
+    "ShortcutRun": "Json%20Installer",
+    "Shortcut": false
   },
   {
     "ShortcutName": "Install App From Json",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
     "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
-    "ShortcutRun": "Install%20App%20From%20Json"
+    "ShortcutRun": "Install%20App%20From%20Json",
+    "Shortcut": false
   },
   {
     "ShortcutName": "iOS Beta Checker",
     "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
     "ShortcutID": "b4a8e2ee277a4cacb4f14986653c62bf",
-    "ShortcutRun": "iOS%20Beta%20Checker"
+    "ShortcutRun": "iOS%20Beta%20Checker",
+    "Shortcut": false
   },
   {
     "ShortcutName": "iOS Signing Status",
