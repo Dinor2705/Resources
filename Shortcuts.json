@@ -10,7 +10,8 @@
     "ShortcutName": "Search For AppStore Apps",
     "ShortcutIcon": "https://icons.appinstallerios.com/AppStore.png",
     "ShortcutID": "444297fd8f234f4db0a9686645fc04c3",
-    "ShortcutRun": "Search%20For%20AppStore%20Apps"
+    "ShortcutRun": "Search%20For%20AppStore%20Apps",
+    "Shortcut": true
   },
   {
     "ShortcutName": "Get App Info From App Store App",
@@ -70,6 +71,7 @@
     "ShortcutName": "iOS Signing Status",
     "ShortcutIcon": "https://AppInstallerios.com/Img/iOS-Status.png",
     "ShortcutID": "2623b71abccd41b5ae199ccd3d9e60f7",
-    "ShortcutRun": "iOS%20Signing%20Status"
+    "ShortcutRun": "iOS%20Signing%20Status",
+    "Shortcut": true
   }
 ]
