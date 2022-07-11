@@ -1,3 +1,4 @@
 {
-  "CloudInstallerActive": false
+  "CloudInstallerActive": false,
+  "CloudInstallerSignerActive": true
 }
