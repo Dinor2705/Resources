@@ -129,5 +129,23 @@
     "iOS": "14.2",
     "Signed": false,
     "Icon": "iOS14"
+  },
+
+  {
+    "iOS": "14.1",
+    "Signed": false,
+    "Icon": "iOS14"
+  },
+
+  {
+    "iOS": "14.0.1",
+    "Signed": false,
+    "Icon": "iOS14"
+  },
+
+  {
+    "iOS": "14.0",
+    "Signed": false,
+    "Icon": "iOS14"
   }
 ]
