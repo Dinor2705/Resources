@@ -58,5 +58,35 @@
     "iOS": "15.0",
     "Signed": false,
     "Icon": "iOS15"
+  },
+  {
+    "iOS": "14.8.1",
+    "Signed": false,
+    "Icon": "iOS14"
+  },
+  {
+    "iOS": "14.8.0",
+    "Signed": false,
+    "Icon": "iOS14"
+  },
+  {
+    "iOS": "14.7.1",
+    "Signed": false,
+    "Icon": "iOS14"
+  },
+  {
+    "iOS": "14.7",
+    "Signed": false,
+    "Icon": "iOS14"
+  },
+  {
+    "iOS": "14.6",
+    "Signed": false,
+    "Icon": "iOS14"
+  },
+  {
+    "iOS": "14.5.1",
+    "Signed": false,
+    "Icon": "iOS14"
   }
 ]
