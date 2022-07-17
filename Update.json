@@ -2,6 +2,6 @@
   {
     "version": "5.2.4",
     "log": "Added App Signing with Starfiles",
-    "signed": true
+    "signed": false
   }
 ]
