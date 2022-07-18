@@ -1,23 +1,6 @@
 {
   "Apps": [
     {
-      "AppName": "Cheyote",
-      "AppDeveloper": "Odyssey Team",
-      "AppIcon": "https://icons.appinstallerios.com/CheyoteIcon.png",
-      "AppPlist": "https://appinstallerios.com/plist/Cheyote.plist",
-      "AppBanner": "https://appinstallerios.com/Img/CheyoteBanner.png",
-      "Twitter": "OdysseyTeam_",
-      "Website": "https://cheyote.com",
-      "AppDescription": "Jailbreak For iOS 15.0 - 15.1.1",
-      "IPA": "https://appinstallerios.com/AppCenter/Cheyote.ipa",
-      "AppSection": "Jailbreaks",
-      "AppScreenshots": [
-        "https://appinstallerios.com/Screenshots/CheyoteScreenshot1.png",
-        "https://appinstallerios.com/Screenshots/CheyoteScreenshot2.png",
-        "https://appinstallerios.com/Screenshots/CheyoteScreenshot3.png"
-      ]
-    },
-    {
       "AppName": "New OS Beta",
       "AppDeveloper": "Benjamin Hornbeck",
       "AppIcon": "https://icons.appinstallerios.com/NewOSIcon.png",
