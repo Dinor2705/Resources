@@ -6,7 +6,7 @@
   },
   {
     "iOS": "15.5",
-    "Signed": true,
+    "Signed": false,
     "Icon": "iOS15"
   },
   {
