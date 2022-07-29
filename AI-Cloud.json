@@ -1,6 +1,27 @@
 {
   "Apps": [
     {
+      "AppName": "Root",
+      "AppDeveloper": "Benjamin Hornbeck",
+      "AppIcon": "https://icons.appinstallerios.com/RootIcon.png",
+      "AppPlist": "https://appinstallerios.com/plist/Root.plist",
+      "AppBanner": "",
+      "Twitter": "AppInstalleriOS",
+      "Website": "https://appinstallerios.com",
+      "AppDescription": "The Best Filza Escaped Alternative. For iOS 14.0 - 14.3 Other Software Versions Will Work With Limited Access",
+      "IPA": "https://appinstallerios.com/AppCenter/Root.ipa",
+      "AppSection": "Other",
+      "AppScreenshots": [
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot1.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot2.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot3.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot4.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot5.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot6.png",
+        "https://appinstallerios.com/Screenshots/NewOSScreenshot7.png"
+      ]
+    },
+    {
       "AppName": "New OS Beta",
       "AppDeveloper": "Benjamin Hornbeck",
       "AppIcon": "https://icons.appinstallerios.com/NewOSIcon.png",
