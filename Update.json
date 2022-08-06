@@ -2,6 +2,6 @@
   {
     "version": "5.4.0",
     "log": "App Store Improvements",
-    "signed": false
+    "signed": true
   }
 ]
