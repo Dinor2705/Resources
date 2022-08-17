@@ -1,5 +1,10 @@
 [
   {
+    "iOS": "15.6.1",
+    "Signed": true,
+    "Icon": "iOS15"
+  },
+  {
     "iOS": "15.6",
     "Signed": true,
     "Icon": "iOS15"
