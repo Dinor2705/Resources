@@ -2,37 +2,43 @@
   {
     "iOS": "15.6.1",
     "Signed": true,
-    "Website": "https://support.apple.com/en-us/HT213412"
+    "Website": "https://support.apple.com/en-us/HT213412",
     "Icon": "iOS15"
   },
   {
     "iOS": "15.6",
     "Signed": true,
+    "Website": "https://support.apple.com/en-us/HT213412",
     "Icon": "iOS15"
   },
   {
     "iOS": "15.5",
     "Signed": false,
+    "Website": "https://support.apple.com/en-us/HT213412",
     "Icon": "iOS15"
   },
   {
     "iOS": "15.4.1",
     "Signed": false,
+    "Website": "https://support.apple.com/en-us/HT213412",
     "Icon": "iOS15"
   },
   {
     "iOS": "15.4",
     "Signed": false,
+    "Website": "https://support.apple.com/en-us/HT213412",
     "Icon": "iOS15"
   },
   {
     "iOS": "15.3.1",
     "Signed": false,
+    "Website": "https://support.apple.com/en-us/HT213412",
     "Icon": "iOS15"
   },
   {
     "iOS": "15.3",
     "Signed": false,
+    "Website": "https://support.apple.com/en-us/HT213412",
     "Icon": "iOS15"
   },
   {
