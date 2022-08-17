@@ -104,16 +104,19 @@
   {
     "iOS": "14.7",
     "Signed": false,
+    "Website": "HT212601",
     "Icon": "iOS14"
   },
   {
     "iOS": "14.6",
     "Signed": false,
+    "Website": "HT212528",
     "Icon": "iOS14"
   },
   {
     "iOS": "14.5.1",
     "Signed": false,
+    "Website": "HT212336",
     "Icon": "iOS14"
   },
   {
