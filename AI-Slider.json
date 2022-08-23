@@ -60,6 +60,7 @@
   {
     "AppBanner": "https://appinstallerios.com/Img/AppleBetaBanner.png",
     "Website": "https://appinstallerios.com/Resources/AppleBeta",
+    "ToolbarBackgroundColor": "ffffff",
     "Active": true
   }
   
