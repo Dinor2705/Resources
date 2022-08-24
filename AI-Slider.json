@@ -58,6 +58,11 @@
     ]
   },
   {
+    "AppBanner": "https://www.apple.com/v/apple-events/home/x/images/overview/hero/fall-2022/hero_announce__bwxm3afyufua_large.jpg",
+    "Website": "https://www.apple.com/apple-events/",
+    "Active": true
+  },
+  {
     "AppBanner": "https://appinstallerios.com/Img/AppleBetaBanner.png",
     "Website": "https://appinstallerios.com/Resources/AppleBeta",
     "Active": true
