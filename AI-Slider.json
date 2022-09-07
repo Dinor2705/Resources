@@ -1,18 +1,23 @@
 [
   {
-    "AppName": "unc0ver",
-    "AppDeveloper": "unc0ver-Team",
-    "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
-    "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
-    "AppBanner": "https://appinstallerios.com/Img/unc0verBanner.png",
-    "Twitter": "unc0verTeam",
-    "Website": "https://unc0ver.dev",
-    "Screenshot1": "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
-    "Screenshot2": "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png",
-    "AppScreenshots": [
-      "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
-      "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png"
-    ]
+    "AppBanner": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/bc/ee/3a/bcee3ad2-bfdb-e172-4f05-75c8637676ba/e4f1d94f-0399-4c9f-a534-e04399fdd6fc.lsr/828x434fe.png",
+    "Website": "https://apptrailers.itunes.apple.com/itunes-assets/PurpleVideo112/v4/b2/00/4e/b2004e41-4482-62b4-7840-c7bed212c59d/P490673985_default.m3u8?aec=HD&a=0",
+    "Active": true
+  },
+  {
+    "AppBanner": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/bc/ee/3a/bcee3ad2-bfdb-e172-4f05-75c8637676ba/e4f1d94f-0399-4c9f-a534-e04399fdd6fc.lsr/828x434fe.png",
+    "Website": "https://apptrailers.itunes.apple.com/itunes-assets/PurpleVideo112/v4/b2/00/4e/b2004e41-4482-62b4-7840-c7bed212c59d/P490673985_default.m3u8?aec=HD&a=0",
+    "Active": true
+  },
+  {
+    "AppBanner": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/bc/ee/3a/bcee3ad2-bfdb-e172-4f05-75c8637676ba/e4f1d94f-0399-4c9f-a534-e04399fdd6fc.lsr/828x434fe.png",
+    "Website": "https://apptrailers.itunes.apple.com/itunes-assets/PurpleVideo112/v4/b2/00/4e/b2004e41-4482-62b4-7840-c7bed212c59d/P490673985_default.m3u8?aec=HD&a=0",
+    "Active": true
+  },
+  {
+    "AppBanner": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/bc/ee/3a/bcee3ad2-bfdb-e172-4f05-75c8637676ba/e4f1d94f-0399-4c9f-a534-e04399fdd6fc.lsr/828x434fe.png",
+    "Website": "https://apptrailers.itunes.apple.com/itunes-assets/PurpleVideo112/v4/b2/00/4e/b2004e41-4482-62b4-7840-c7bed212c59d/P490673985_default.m3u8?aec=HD&a=0",
+    "Active": true
   },
   {
     "AppBanner": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/bc/ee/3a/bcee3ad2-bfdb-e172-4f05-75c8637676ba/e4f1d94f-0399-4c9f-a534-e04399fdd6fc.lsr/828x434fe.png",
