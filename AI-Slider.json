@@ -15,52 +15,8 @@
     ]
   },
   {
-    "AppName": "Taurine",
-    "AppDeveloper": "Odyssey-Team",
-    "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
-    "AppPlist": "https://appinstallerios.com/plist/Taurine.plist",
-    "AppBanner": "https://appinstallerios.com/Img/TaurineBanner.png",
-    "Twitter": "OdysseyTeam_",
-    "Website": "https://taurine.app",
-    "Screenshot1": "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
-    "Screenshot2": "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png",
-    "AppScreenshots": [
-      "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
-      "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png"
-    ]
-  },
-  {
-    "AppName": "Saily",
-    "AppDeveloper": "Saily Team",
-    "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
-    "AppPlist": "https://appinstallerios.com/plist/Saily.plist",
-    "AppBanner": "https://appinstallerios.com/Img/SailyBanner.png",
-    "Twitter": "TrySaily",
-    "Website": "https://sailyteam.github.io",
-    "Screenshot1": "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
-    "Screenshot2": "https://appinstallerios.com/Screenshots/SailyScreenshot2.png",
-    "AppScreenshots": [
-      "https://appinstallerios.com/Screenshots/SailyScreenshot1.png",
-      "https://appinstallerios.com/Screenshots/SailyScreenshot2.png"
-    ]
-  },
-    {
-    "AppName": "ZiniTevi",
-    "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
-    "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist",
-    "AppBanner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
-    "Website": "https://ziniteviapp.github.io",
-    "Screenshot1": "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
-    "Screenshot2": "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png",
-    "AppScreenshots": [
-      "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot1.png",
-      "https://appinstallerios.com/Screenshots/ZiniTeviScreenshot2.png"
-    ]
-  },
-  {
-    "AppBanner": "https://appinstallerios.com/Img/AppleBetaBanner.png",
-    "Website": "https://appinstallerios.com/Resources/AppleBeta",
+    "AppBanner": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/bc/ee/3a/bcee3ad2-bfdb-e172-4f05-75c8637676ba/e4f1d94f-0399-4c9f-a534-e04399fdd6fc.lsr/828x434fe.png",
+    "Website": "https://apptrailers.itunes.apple.com/itunes-assets/PurpleVideo112/v4/b2/00/4e/b2004e41-4482-62b4-7840-c7bed212c59d/P490673985_default.m3u8?aec=HD&a=0",
     "Active": true
   }
-  
 ]
