@@ -13,7 +13,7 @@
   },
   {
     "iOS": "15.6.1",
-    "Signed": true,
+    "Signed": false,
     "Website": "HT213412",
     "Icon": "iOS15"
   },
