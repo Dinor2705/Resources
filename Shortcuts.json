@@ -57,14 +57,14 @@
   },
   {
     "ShortcutName": "Json Installer",
-    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
+    "ShortcutIcon": "https://AppInstallerios.com/Img/JSON.png",
     "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
     "ShortcutRun": "Json%20Installer",
     "Shortcut": false
   },
   {
     "ShortcutName": "Install App From Json",
-    "ShortcutIcon": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f8/c1/7d/f8c17d3b-1261-1e04-a26b-0d86f31be916/source/100x100bb.jpg",
+    "ShortcutIcon": "https://AppInstallerios.com/Img/JSON.png",
     "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
     "ShortcutRun": "Install%20App%20From%20Json",
     "Shortcut": false
