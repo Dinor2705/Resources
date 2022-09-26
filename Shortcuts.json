@@ -43,7 +43,7 @@
   },
   {
     "ShortcutName": "Install IPA",
-    "ShortcutIcon": "https://icons.appinstallerios.com/IPA.png",
+    "ShortcutIcon": "https://icons.appinstallerios.com/Install.png",
     "ShortcutID": "9a1eefbfdad54474b6d6083ca1d32f6e",
     "ShortcutRun": "Install%20IPA",
     "Shortcut": false
