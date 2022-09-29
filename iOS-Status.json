@@ -7,13 +7,13 @@
   },
   {
     "iOS": "16.0.1",
-    "Signed": true,
+    "Signed": false,
     "Website": "",
     "Icon": "iOS16"
   },
   {
     "iOS": "16.0",
-    "Signed": true,
+    "Signed": false,
     "Website": "HT213446",
     "Icon": "iOS16"
   },
