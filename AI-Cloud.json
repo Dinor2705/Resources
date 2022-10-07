@@ -1,21 +1,6 @@
 {
   "Apps": [
     {
-      "AppName": "TrollInstaler",
-      "AppDeveloper": "opa334",
-      "AppIcon": "https://icons.appinstallerios.com/TrollInstallerIcon.png",
-      "AppPlist": "https://appinstallerios.com/plist/TrollInstaller.plist",
-      "AppBanner": "",
-      "Twitter": "opa334dev",
-      "AppDescription": "TrollInstaller Allows You To Install TrollStore. Supports A12 And Newer Devices And iOS Versions 14.0 - 15.4.1 (15.5b4)",
-      "IPA": "https://appinstallerios.com/IPA/TrollInstaller.ipa",
-      "AppSection": "Other",
-      "AppScreenshots": [
-        "https://appinstallerios.com/Screenshots/TrollStoreScreenshot1.png",
-        "https://appinstallerios.com/Screenshots/TrollStoreScreenshot2.png"
-      ]
-    },
-    {
       "AppName": "Root",
       "AppDeveloper": "Benjamin Hornbeck",
       "AppIcon": "https://icons.appinstallerios.com/RootIcon.png",
