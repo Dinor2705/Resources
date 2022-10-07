@@ -1,6 +1,5 @@
 {
   "Apps": [
-
     {
       "AppName": "TrollInstaler",
       "AppDeveloper": "opa334",
@@ -11,7 +10,9 @@
       "AppDescription": "TrollInstaller Allows You To Install TrollStore. Supports A12 And Newer Devices And iOS version 14.0 - 15.4 (15.5b4)",
       "IPA": "https://appinstallerios.com/IPA/TrollInstaller.ipa",
       "AppSection": "Other",
-      "AppScreenshots": []
+      "AppScreenshots": [
+
+      ]
     },
     {
       "AppName": "Root",
