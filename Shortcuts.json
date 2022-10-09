@@ -56,20 +56,6 @@
     "Shortcut": false
   },
   {
-    "ShortcutName": "Json Installer",
-    "ShortcutIcon": "https://AppInstallerios.com/Img/JSON.png",
-    "ShortcutID": "dc6d031f497e42b088e2af6362d2afbd",
-    "ShortcutRun": "Json%20Installer",
-    "Shortcut": false
-  },
-  {
-    "ShortcutName": "Install App From Json",
-    "ShortcutIcon": "https://AppInstallerios.com/Img/JSON.png",
-    "ShortcutID": "ff79a51b4e974e329c4ada3b834e8039",
-    "ShortcutRun": "Install%20App%20From%20Json",
-    "Shortcut": false
-  },
-  {
     "ShortcutName": "iOS Beta Checker",
     "ShortcutIcon": "https://AppInstallerios.com/Img/iOS-Beta-Chacker.png",
     "ShortcutID": "b4a8e2ee277a4cacb4f14986653c62bf",
